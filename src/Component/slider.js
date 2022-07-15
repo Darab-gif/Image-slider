@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import backArrow from "./icon/back.png";
-import nextArrow from "./icon/next.png";
+import backArrow from "./icon/backIcon.png";
+import nextArrow from "./icon/nextIcon.png";
 import nat1 from "./img/nature1.jpg";
 import nat2 from "./img/nature2.jpg";
 import nat3 from "./img/nature3.jpg";

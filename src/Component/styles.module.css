@@ -10,6 +10,7 @@
 .button {
   width: 40px;
   height: 40px;
+  border-radius: 10px;
   -webkit-filter: invert(100%); /* Safari/Chrome */
   filter: invert(100%);
 }
@@ -56,22 +57,22 @@
 }
 
 .dot {
-  width: 15px;
-  height: 15px;
-  background-color: lightblue;
+  width: 35px;
+  height: 35px;
+  background-color: crimson;
   border-radius: 50%;
   margin: 0 10px;
 }
 
 .dot:hover {
   cursor: pointer;
-  background-color: rgb(76, 171, 202);
+  background-color: rgb(220, 20, 110);
 }
 
 .activeDot {
   width: 15px;
   height: 15px;
-  background-color: rgb(76, 171, 202);
+  background-color: rgb(220, 20, 60);
   border-radius: 50%;
   margin: 0 10px;
 }
