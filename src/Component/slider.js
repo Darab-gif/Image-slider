@@ -7,9 +7,14 @@ import nat3 from "./img/nature3.jpg";
 import nat4 from "./img/nature4.jpg";
 import nat5 from "./img/nature5.jpg";
 import nat6 from "./img/nature6.jpg";
+import nat7 from "./img/nature7.jpg";
+import nat8 from "./img/nature8.jpg";
+import nat9 from "./img/nature9.jpg";
+import nat10 from "./img/nature10.jpg";
+
 import styles from "./styles.module.css";
 
-const imageList = [nat1, nat2, nat3, nat4, nat5, nat6];
+const imageList = [nat1, nat2, nat3, nat4, nat5, nat6, nat7, nat8, nat9, nat10];
 const Slider = ({
   width,
   height,
